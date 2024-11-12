@@ -22,9 +22,8 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 <img src="images/xczheng0105.png" width="200px">
 
-[[homepage](http://www.comp.nus.edu.sg/~damithch)]
 [[github](https://github.com/xczheng0105)]
-[[portfolio](team/johndoe.md)]
+[[portfolio](team/xczheng0105.md)]
 
 
 * Role: Member
@@ -34,7 +33,7 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 <img src="images/chenleiyu.png" width="200px">
 
-[[github](http://github.com/ChenLeiyu)] [[portfolio](team/johndoe.md)]
+[[github](http://github.com/ChenLeiyu)] [[portfolio](team/chenleiyu.md)]
 
 * Role: Developer
 
